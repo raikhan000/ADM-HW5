@@ -1,5 +1,5 @@
 # ADM-HW5  
-Github repository to submit ADM's **Homework 4**  
+Github repository to submit ADM's **Homework 5**  
 The assignment was done by **group 5**:  
 1) Cindy Pistorius  
 2) Raikhan Akhmetkaliyeva  
